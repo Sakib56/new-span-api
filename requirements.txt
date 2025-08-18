@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 numpy<2
+pandas
 rembg
 onnxruntime
 scikit-learn
