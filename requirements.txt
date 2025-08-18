@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy<2
+rembg
+onnxruntime
+scikit-learn
+opencv-python-headless
+Pillow
+joblib
